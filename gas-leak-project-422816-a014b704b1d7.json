@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gas-leak-project-422816",
+  "private_key_id": "a014b704b1d7ff1604c4146827bebd8743031a6c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCan2pO6sAHayXF\nVFaWi4u14kOe+0LyUmpgCwi7h9oTKTIdNLAP0uQv5Fbae6aj9AStjwhSFmFbh5yH\nwOBbKZrkm0Vqk8GEDNIXdOyYxkXgqRtASKZn6l2PQS/YGBlqNGl8JqdhkK2pDon7\ns+YjHBOM5rrILzir0TtvFMN/mA3GehQhuJRbvAkusAZccwgNmAm30DIVheC+x8sI\nTmP0Lpokh70QF5lS3SrvlEJGKk+/lc5ZC9r+GaFBCM0UFqd+iIybRvUjw3UqvmH4\n1MOo+AFbK7e9JR2gsIB6rCDQDswfgQrLtAG2i4WLicYwB7OiRT+K6h+XMKGFI2fR\nox/agoHvAgMBAAECggEABbpqw4JIqFDmXp4zJQAF2X075XuU4KN//SkVFjymrhE9\n7r1BQBzSekztw/zsg/3QX8B0RCimS7ASJijvLUFoOeVGSysuvwS2+P2w0P1LbZ+M\nlGZjAwEfA5i171eZNwkhCha051VNfn1Wf34lkPhpzjPM1W/pnA5NmURkjhxxqjNU\nPUYgiLSMlBXsZBHRe0ml9feNYHds1BVv6vRnUJEh+S1hxzK5KhSSp17Riq1yM3Yb\naZswniXptO9BO1a/xO4Ma0hnv4wCna20bDVIqmAXTPazvlKw4XXmhHAbJnLdgA4I\n88hkoLOHMKwpoeGHyWV361wahmwDM0g4X61ZAiPvaQKBgQDOrkeHWUYItNxzYDi5\n1oLJkDeoGcir/joNuDbNTgzvkzT0PLbYl0em54mtfEu+UgFvpLUc6ihS7YNMlfQI\nn0v2BIxVuvcHZIhRxGd/gIRjwZMZBPQ6mOirw5cfU4m+7+lcT0z7ZDqb3BTCzDYM\n5RABDmn4RAbxLPMHGoT7EwHo1wKBgQC/hQL4O/3E8LX9awYrjl0lSWYaG8r822Ra\nkXv+FvAQCEwNL2Vlblrt3lI/hNapiqYWNmD9I1rWA16OO3o9u0TWzz4le4d8IvG8\nygPhfZ7u67lLnm2ZbV1GUCtUMvO04zfK+WXaaqKpfi3Rq4BpmgQ7xgWqHG9fVbV9\ntjrTO4kUqQKBgEBCP0r9nqCmWsQkbn6ZCyDQDf3dxl5zNGl/lMpQMgVqp1QobFD6\n9/QUmOGve3040el8NDNBOjhOUDxHgxALNvrOfzNIZfWOdDO39NXXh1HcpXdp6uUt\nFWoR7bJ3rqQGw29H2I9woihDTNEj3Mo1jbxGVvwxalchuo3C2QWW60kRAoGBALsW\n37jJOfTqRI4jv6pK71keY5x7rAbo9xa2ak7j721p/Ykf1MiKTk9yUBx20xBaPjcS\nthpzMChCsFr3ZUnqp6vEVexdyROOO2H2YmYjxl+VbLSfNmeb+3NVm44sHACHupgQ\nm9wLMY2rkmzxQYdnil0t65irIG0cGCiPHNX+ocHJAoGASyYAVhJJqZFyE7zYIR3N\nnUJiVs9/cfL4XptZ/j3nt++gjsTLSiaB3di/GXxKQoK09X6wdrqna9LRWXJXjeNO\nlhLGCFZdZR7o2dM5egYi7QbeZ8L5O6Xe22BMAWNumxW7CCNeHxEEj9MobJD8rGET\nG8d0RxDKdVqBXNFvZM947EU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "massone-m@gas-leak-project-422816.iam.gserviceaccount.com",
+  "client_id": "103182323680208696188",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/massone-m%40gas-leak-project-422816.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

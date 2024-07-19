@@ -1,0 +1,43 @@
+name: gas_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9  # or any version you prefer
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - notebook
+  - ipython
+  - ipykernel
+  - plotly
+  - dash
+  - flask
+  - sqlalchemy
+  - tensorflow  # Optional: for machine learning
+  #- pytorch  # Optional: for machine learning
+  #- nltk  # Optional: for natural language processing
+  #- spacy  # Optional: for natural language processing
+  #- beautifulsoup4  # Optional: for web scraping
+  - requests  # Optional: for HTTP requests
+  - xlrd  # Optional: for Excel files
+  - openpyxl  # Optional: for Excel files
+  - pip
+  - pip:
+    - cufflinks  # Optional: for Plotly with Pandas
+    - plotly_express
+    #- keras  # Optional: for high-level neural networks API
+    #- gpt-2-simple  # Optional: for using pre-trained GPT-2 models
+    - dash-bootstrap-components  # Optional: for better layout in Dash apps
+    - google-api-python-client
+    - google-auth
+  - geopandas
+  - fiona
+  - shapely
+  - pyproj
+  - rtree
+  - descartes  # Optional: to plot geometries in matplotlib
